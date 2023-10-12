@@ -13,9 +13,11 @@ Manage your tasks and events effortlessly with this simple and intuitive to-do l
 
 Here are some screenshots of the application in action:
 
-![Screenshot 1](screenshots/main_screen.png)
-<img src="screenshots/main_screen.png" alt="Screenshot 1" width="400" height="300">
 Home Page
+
+![Screenshot 1](screenshots/main_screen.png)
+<img src="screenshots/main_screen.png" alt="Screenshot 1" width="100" height="100">
+
 
 ![Screenshot 2](screenshots/adding_task.png)
 Adding a new task
