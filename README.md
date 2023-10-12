@@ -15,7 +15,7 @@ Here are some screenshots of the application in action:
 
 Home Page
 
-![Screenshot 1](screenshots/main_page.png)
+![Screenshot 1](screenshots/main_screen.png)
 
 Adding a new task
 
