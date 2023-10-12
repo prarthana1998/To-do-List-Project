@@ -14,14 +14,12 @@ Manage your tasks and events effortlessly with this simple and intuitive to-do l
 Here are some screenshots of the application in action:
 
 Home Page
+<img src="screenshots/main_screen.png" alt="Screenshot 1" width="200" height="300">
 
-![Screenshot 1](screenshots/main_screen.png)
-<img src="screenshots/main_screen.png" alt="Screenshot 1" width="100" height="100">
-
-
-![Screenshot 2](screenshots/adding_task.png)
 Adding a new task
+![Screenshot 2](screenshots/adding_task.png)
 
-![Screenshot 3](screenshots/update_task.png)
 Marking a task as done
+![Screenshot 3](screenshots/update_task.png)
+
 
