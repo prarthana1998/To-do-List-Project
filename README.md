@@ -2,6 +2,8 @@
 
 Manage your tasks and events effortlessly with this simple and intuitive to-do list application. Stay organized and on top of your to-do list with ease.
 
+## Demo(https://prarthana1998.github.io/To-do-List-Project/)
+
 ## Features
 
 - Add new tasks and events with ease.
