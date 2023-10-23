@@ -9,7 +9,7 @@ Manage your tasks and events effortlessly with this simple and intuitive to-do l
 - Add new tasks and events with ease.
 - Delete tasks and events with a simple click.
 - Update and mark tasks as completed.
--user-friendly and intuitive interface.
+- User-friendly and intuitive interface.
 
 ## Screenshots
 
